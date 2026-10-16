@@ -75,7 +75,7 @@ That's it. The agent does the rest.
 ## Installation
 
 ```bash
-git clone <repo-url> ~/.claude/skills/random-number
+git clone https://github.com/davo-res/skill-random-number ~/.claude/skills/random-number
 ```
 
 Or copy the folder wherever your agent reads skills from. If your agent doesn't read skills, this repo is useless to you. Sorry.
